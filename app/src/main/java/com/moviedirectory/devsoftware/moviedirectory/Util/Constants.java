@@ -7,7 +7,7 @@ package com.moviedirectory.devsoftware.moviedirectory.Util;
 public class Constants {
 
     public static final String URL_LEFT = "http://www.omdbapi.com/?s=";
-    public static final String URL_Right = "&apikey=14b55786&page2";
+    public static final String URL_Right = ""; // Please use your api key.
     public static final String URL = "http://www.omdbapi.com/?i=";
 
 }
